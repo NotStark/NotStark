@@ -18,7 +18,7 @@
 <br>
 - A Small Child That Have Big Dreams <br>
 - Currently learning Web Development  <br>
-- Personal website [link](https://notstark.github.io/My-First-Website/)
+- Personal website [link](https://notstark.github.io/My-First-Website)
 
 <br><br>
 
