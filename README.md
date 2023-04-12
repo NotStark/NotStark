@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://graph.org/file/952e5c2accdce68b398b1.mp4" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/NotStark/MD-Assests/blob/main/gif/about_me.gif.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
