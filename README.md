@@ -35,6 +35,10 @@
 
 <br>
 
+- **Databases**: <br> <br>
+    ![MongoDB](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=mongodb&logoColor=green)
+    
+<br>
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
