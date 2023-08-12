@@ -69,7 +69,7 @@
 <br>
 
 - **Databases**: <br> <br>
-    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2314354C.svg?style=for-the-badge&logo=mongodb&logoColor=green)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     
 <br>
 
