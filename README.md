@@ -90,7 +90,7 @@
 - **Extras**:
 
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/MARKDOWN%20-%23E34F26.svg?style=for-the-badge&logo=markdown5&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
