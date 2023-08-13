@@ -94,6 +94,7 @@
 
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white)
+    ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
    
   
 - **Extras**:
