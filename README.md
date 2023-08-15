@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/stark"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Tech%20enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/notstark"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Tech%20enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
