@@ -74,7 +74,7 @@
 - **Databases**: <br> <br>
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Frameworkds**:  <br> <br>
+- **Frameworks**:  <br> <br>
     ![Express JS](https://img.shields.io/badge/Express%20JS-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
     ![Pyrogram](https://img.shields.io/badge/Pyrogram-F0B90B.svg?style=for-the-badge&logoColor=black)
 
