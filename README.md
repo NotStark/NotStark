@@ -73,7 +73,9 @@
 
 - **Databases**: <br> <br>
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-    
+
+- **Frameworkds**:  <br> <br>
+    ![Express JS](https://img.shields.io/badge/Express%20JS-000000.svg?style=for-the-badge&logo=Express&logoColor=white)  
 
 
 - **Cloud Hosting**: <br> <br>
