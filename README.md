@@ -136,13 +136,13 @@
 
 <p align="center">
   <a href="https://github.com/AsyncVortex">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=notstark&theme=radical&border=7F3FBF&background=0D1117" alt="Stark's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsyncVortex&theme=radical&border=7F3FBF&background=0D1117" alt="Vortex's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AsyncVortex">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notstark&theme=radical" alt="Stark's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsyncVortex&theme=radical" alt="Vortex's GitHub Contribution"/>
   </a>
 </p>
 
