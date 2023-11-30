@@ -30,7 +30,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
-<img align="middle" src="https://profile-counter.glitch.me/NotStark/count.svg" />
+<img align="middle" src="https://profile-counter.glitch.me/AsyncVortex/count.svg" />
 </p>
 <br />
 
