@@ -5,11 +5,6 @@
 </h2>
 
 
-
-
-
-
-
 <h3 align="center">
         I'm Stark (Siddharth)
 </h3>
@@ -74,10 +69,12 @@
 - **Databases**: <br> <br>
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Frameworks**:  <br> <br>
+- **Libraries/Frameworks**:  <br> <br>
     ![Express JS](https://img.shields.io/badge/Express%20JS-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+    ![Gsap](https://img.shields.io/badge/GreenSock-88CE02.svg?style=for-the-badge&logo=GreenSock&logoColor=white)
     ![Pyrogram](https://img.shields.io/badge/Pyrogram-F0B90B.svg?style=for-the-badge&logoColor=black)
     ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+   
 
 
 - **Cloud Hosting**: <br> <br>
