@@ -71,7 +71,7 @@
 
 - **Libraries/Frameworks**:  <br> <br>
     ![Express JS](https://img.shields.io/badge/Express%20JS-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
-    ![Gsap](https://img.shields.io/badge/GreenSock-88CE02.svg?style=for-the-badge&logo=GreenSock&logoColor=white)
+    ![Gsap](https://img.shields.io/badge/GreenSock-88CE02.svg?style=for-the-badge&logo=Gsap&logoColor=white)
     ![Pyrogram](https://img.shields.io/badge/Pyrogram-F0B90B.svg?style=for-the-badge&logoColor=black)
     ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
    
