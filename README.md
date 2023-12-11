@@ -74,7 +74,7 @@
     ![Gsap](https://img.shields.io/badge/GreenSock-88CE02.svg?style=for-the-badge&logo=GreenSock&logoColor=white)
     ![Pyrogram](https://img.shields.io/badge/Pyrogram-F0B90B.svg?style=for-the-badge&logoColor=black)
     ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-    ![Flowbite](https://img.shields.io/badge/Webflow-146EF5.svg?style=for-the-badge&logo=Flowbite&logoColor=white)
+    ![Flowbite](https://img.shields.io/badge/Flowbite-146EF5.svg?style=for-the-badge&logo=Flowbite&logoColor=white)
   
    
 
