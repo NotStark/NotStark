@@ -68,6 +68,7 @@
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - **Libraries/Frameworks**:  <br> <br>
+    ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
     ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
     ![Express JS](https://img.shields.io/badge/Express%20JS-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
     ![Pyrogram](https://img.shields.io/badge/Pyrogram-F0B90B.svg?style=for-the-badge&logoColor=black)
