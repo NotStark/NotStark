@@ -99,22 +99,8 @@
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## Top Open Source 
-<p align="center">
-    <a href="https://github.com/NotStark/Animedex-React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NotStark&repo=Animedex-React&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF">
-  </a>
-  <a href="https://github.com/NotStark/TelegramBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NotStark&repo=TelegramBot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF">
-  </a>
-</p>
 
 
-<p align="center">
-  <a href="https://github.com/NotStark?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
